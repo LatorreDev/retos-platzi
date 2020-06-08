@@ -13,7 +13,7 @@ echo "Hello World"
 
 new_line
 
-read -p "Cual es tu nombre?: " name
-read -p "Cual es tu apellido: " last_name
+read -p -r "Cual es tu nombre?: " name
+read -p -r "Cual es tu apellido: " last_name
 
 echo "Hola, $name $last_name"

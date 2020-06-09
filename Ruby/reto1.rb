@@ -1,14 +1,14 @@
 #!/usr/bin/env ruby
-#Reto 1 Platzi
+# Reto 1 Platzi
 
-def newline()
+def newline
   puts("\n")
-  puts("****************")
+  puts('****************')
   puts("\n")
 end
 
-newline()
+newline
 
-puts("Hola mundo")
+puts('Hola mundo')
 
-newline()
+newline
